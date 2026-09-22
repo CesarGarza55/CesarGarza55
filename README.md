@@ -1,6 +1,15 @@
 # 💫 About Me:
-Computer Engineering student and full-stack developer. I focus on building practical web and mobile projects with clean architecture and thoughtful UI/UX. Always improving, always shipping.
+Computer Engineer | Tech Lead | Senior Software Engineer | Full-Stack & Mobile Development | Software Architecture & Cloud
 
+I'm a Computer Engineer with professional experience building and leading end-to-end software solutions across mobile, web, backend, and cloud infrastructure.
+
+I specialize in JavaScript/TypeScript, React, React Native, Node.js, SQL databases, and REST APIs, with additional experience in Python, C/C++, authentication systems, Docker, Linux, and AWS.
+
+My work covers the full software lifecycle, including architecture and technical decision-making, application and API development, database design, cloud infrastructure, deployments, security, monitoring, and maintenance.
+
+I have experience developing business-critical platforms involving e-commerce, inventory, orders, payments, and internal operations, with a strong focus on scalability, reliability, usability, and real-world business requirements.
+
+I’m comfortable working with technical documentation in English (CEFR B2) and continuously expanding my expertise across software engineering, architecture, and cloud technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesargzm55) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cesargzm55) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codevbox) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CesarGZM55) 
